@@ -1,0 +1,1671 @@
+TARSC
+v7
+r0
+t331765289.872666
+cCheck dependencies
+cCpResource build/Debug-iphoneos/ARSC.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Info.plist" ARSC-Info.plist
+cCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib"
+cCopyPNGFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/53-house.png" 53-house.png
+cCopyPNGFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/123-id-card.png" 123-id-card.png
+cCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.xib"
+cCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.xib"
+cCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.xib"
+cCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/HomeViewController.xib"
+cCopyPNGFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC_Logo.png" ARSC_Logo.png
+cCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MapViewController.xib"
+cCopyPNGFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/121-landscape.png" 121-landscape.png
+cCpResource build/Debug-iphoneos/ARSC.app/annotations.txt annotations.txt
+cCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.xib"
+cCpResource build/Debug-iphoneos/ARSC.app/Places.xml Places.xml
+cCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.xib"
+cCpResource "build/Debug-iphoneos/ARSC.app/Anton Kulchitsky.jpg" "profile/Anton Kulchitsky.jpg"
+cCpResource build/Debug-iphoneos/ARSC.app/Beth_Web.jpg profile/Beth_Web.jpg
+cCpResource build/Debug-iphoneos/ARSC.app/Brad_Web_informal.jpg profile/Brad_Web_informal.jpg
+cCpResource "build/Debug-iphoneos/ARSC.app/Brandon Becker.jpg" "profile/Brandon Becker.jpg"
+cCpResource "build/Debug-iphoneos/ARSC.app/Chris Fallen.jpg" "profile/Chris Fallen.jpg"
+cCpResource "build/Debug-iphoneos/ARSC.app/Dale Clark.jpg" "profile/Dale Clark.jpg"
+cCpResource build/Debug-iphoneos/ARSC.app/Ed_Web.jpg profile/Ed_Web.jpg
+cCpResource build/Debug-iphoneos/ARSC.app/Gene_Web.jpg profile/Gene_Web.jpg
+cCpResource build/Debug-iphoneos/ARSC.app/horen_web.jpg profile/horen_web.jpg
+cCpResource build/Debug-iphoneos/ARSC.app/Jamie_Web.jpg profile/Jamie_Web.jpg
+cCpResource build/Debug-iphoneos/ARSC.app/JeffHarrison_001.jpg profile/JeffHarrison_001.jpg
+cCpResource build/Debug-iphoneos/ARSC.app/Kate_Web.jpg profile/Kate_Web.jpg
+cCpResource build/Debug-iphoneos/ARSC.app/krieger_photo.jpg profile/krieger_photo.jpg
+cCpResource "build/Debug-iphoneos/ARSC.app/Kurt Carlson.jpg" "profile/Kurt Carlson.jpg"
+cCpResource build/Debug-iphoneos/ARSC.app/lawrence_murakami.jpg profile/lawrence_murakami.jpg
+cCpResource "build/Debug-iphoneos/ARSC.app/Liam Forbes.jpg" "profile/Liam Forbes.jpg"
+cCpResource build/Debug-iphoneos/ARSC.app/Morton.jpg profile/Morton.jpg
+cCpResource build/Debug-iphoneos/ARSC.app/Newby.jpg profile/Newby.jpg
+cCpResource "build/Debug-iphoneos/ARSC.app/Rob Cermak.jpg" "profile/Rob Cermak.jpg"
+cCpResource "build/Debug-iphoneos/ARSC.app/Sabrina Cook.jpg" "profile/Sabrina Cook.jpg"
+cCpResource build/Debug-iphoneos/ARSC.app/sergei_www.jpg profile/sergei_www.jpg
+cCpResource build/Debug-iphoneos/ARSC.app/Tom_Logan_Web.jpg profile/Tom_Logan_Web.jpg
+cCpResource "build/Debug-iphoneos/ARSC.app/Tom Bachert.jpg" "profile/Tom Bachert.jpg"
+cCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ContactTableViewController.xib"
+cCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/DetailContactViewController.xib"
+cCopyPNGFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Don_Bahls.png" profile/Don_Bahls.png
+cProcessPCH /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch.gch ARSC_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch.gch ARSC_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/main.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSCAppDelegate.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/HomeViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/AboutViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ScienceViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/SupportViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/MapViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/MyMapAnnotations.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/DetailViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/VideoViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/XMLParser.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ContactTableViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/DetailContactViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/main.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSC" normal armv6
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSCAppDelegate.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/HomeViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/AboutViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ScienceViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/SupportViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/MapViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/MyMapAnnotations.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/DetailViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/VideoViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/XMLParser.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ContactTableViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/DetailContactViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSC" normal armv7
+cCreateUniversalBinary "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app.dSYM" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC"
+cProcessProductPackaging "/Users/rsimon/Library/MobileDevice/Provisioning Profiles/25F8BD26-56D6-4C19-AF89-4AEE76D3DE6D.mobileprovision" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/embedded.mobileprovision"
+cTouch "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC.xcent"
+cCodeSign "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC11B5300000000000D96F0
+t1287723859
+s890608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC11D4800000000000002FE
+t1287724360
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC11D62000000000029CFA0
+t1287724386
+s2740128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004CC247E70000000000000294
+t1287800807
+s660
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC2483E000000000038CF50
+t1287800894
+s3723088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/121-landscape.png
+c000000004CB8C2E40000000000000BA0
+t1287176932
+s2976
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/123-id-card.png
+c000000004CB8C2E40000000000000B8E
+t1287176932
+s2958
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/53-house.png
+c000000004CB8C2F40000000000000B52
+t1287176948
+s2898
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Logo.png
+c000000004E00F93E0000000000034A17
+t1308686654
+s215575
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Prefix.pch
+c000000004DEF56C200000000000000B1
+t1307530946
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.h
+c000000004E0E19DA0000000000000281
+t1309546970
+s641
+i<MapKit/MapKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m
+c000000004E149B3F000000000000037C
+t1309973311
+s892
+i"MyMapAnnotations.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.h
+c000000004E0E39EA00000000000002F6
+t1309555178
+s758
+i<Foundation/Foundation.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m
+c000000004E0E498F0000000000000DC4
+t1309559183
+s3524
+i"XMLParser.h"
+i"MyMapAnnotations.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.h
+c000000004E0233310000000000000254
+t1308767025
+s596
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m
+c000000004E14ECFF0000000000000C20
+t1309994239
+s3104
+i"ARSCAppDelegate.h"
+i"HomeViewController.h"
+i"ContactTableViewController.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.h
+c000000004E013F2D0000000000000185
+t1308704557
+s389
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m
+c000000004E022D1E0000000000000C76
+t1308765470
+s3190
+i"AboutViewController.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.xib
+c000000004E01284B000000000000475B
+t1308698699
+s18267
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.h
+c000000004E15F7550000000000000267
+t1310062421
+s615
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m
+c000000004E161EF4000000000000177B
+t1310072564
+s6011
+i"ContactTableViewController.h"
+i"ARSCAppDelegate.h"
+i"DetailContactViewController.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.h
+c000000004E15FA43000000000000028B
+t1310063171
+s651
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m
+c000000004E161B8F0000000000000847
+t1310071695
+s2119
+i"DetailContactViewController.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.h
+c000000004E0E5BCB000000000000016C
+t1309563851
+s364
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m
+c000000004E149B830000000000000295
+t1309973379
+s661
+i"DetailViewController.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.xib
+c000000004E0E60F8000000000000480B
+t1309565176
+s18443
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.h
+c000000004E0E657C0000000000000510
+t1309566332
+s1296
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m
+c000000004E14DAC90000000000000CF9
+t1309989577
+s3321
+i"HomeViewController.h"
+i"AboutViewController.h"
+i"ScienceViewController.h"
+i"SupportViewController.h"
+i"MapViewController.h"
+i"ARSCAppDelegate.h"
+i"MyMapAnnotations.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.h
+c000000004E0E667C00000000000003BA
+t1309566588
+s954
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m
+c000000004E14B2890000000000001643
+t1309979273
+s5699
+i"MapViewController.h"
+i"MyMapAnnotations.h"
+i"DetailViewController.h"
+i"VideoViewController.h"
+i"XMLParser.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.h
+c000000004E03907700000000000006AE
+t1308856439
+s1710
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m
+c000000004E05256E0000000000001F12
+t1308960110
+s7954
+i"ScienceViewController.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.xib
+c000000004E0528580000000000006C41
+t1308960856
+s27713
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.h
+c000000004E038E0B0000000000000138
+t1308855819
+s312
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m
+c000000004E149C3E000000000000083D
+t1309973566
+s2109
+i"SupportViewController.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.xib
+c000000004E05286800000000000060B1
+t1308960872
+s24753
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.h
+c000000004E0E6365000000000000014A
+t1309565797
+s330
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m
+c000000004E1498BE00000000000006BE
+t1309972670
+s1726
+i"VideoViewController.h"
+i"HomeViewController.h"
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.xib
+c000000004E0E07BF0000000000004982
+t1309542335
+s18818
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ContactTableViewController.xib
+c000000004E14C65500000000000050C4
+t1309984341
+s20676
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/DetailContactViewController.xib
+c000000004E15F40F0000000000005D77
+t1310061583
+s23927
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/HomeViewController.xib
+c000000004E0116F800000000000087BA
+t1308694264
+s34746
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib
+c000000004E14C7C5000000000000D2CD
+t1309984709
+s53965
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MapViewController.xib
+c000000004E0E0A3600000000000058AF
+t1309542966
+s22703
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Places.xml
+c000000004E14A158000000000000051D
+t1309974872
+s1309
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/annotations.txt
+c000000004E0CD64300000000000000B2
+t1309464131
+s178
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC.xcent
+t1310072488
+s414
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSC
+t1310072488
+s87640
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSC.LinkFileList
+c000000004E161E9D00000000000007C3
+t1310072477
+s1987
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSCAppDelegate.o
+t1310072483
+s55012
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/AboutViewController.o
+t1310072483
+s46780
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ContactTableViewController.o
+t1310072484
+s53004
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/DetailContactViewController.o
+t1310072484
+s46496
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/DetailViewController.o
+t1310072483
+s40500
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/HomeViewController.o
+t1310072483
+s50512
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/MapViewController.o
+t1310072483
+s62572
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/MyMapAnnotations.o
+t1310072483
+s17292
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ScienceViewController.o
+t1310072483
+s45864
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/SupportViewController.o
+t1310072483
+s42336
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/VideoViewController.o
+t1310072484
+s42680
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/XMLParser.o
+t1310072484
+s24400
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/main.o
+t1310072483
+s6504
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSC
+t1310072488
+s83544
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSC.LinkFileList
+c000000004E161E9D00000000000007C3
+t1310072477
+s1987
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSCAppDelegate.o
+t1310072484
+s54908
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/AboutViewController.o
+t1310072484
+s46672
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ContactTableViewController.o
+t1310072485
+s52496
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/DetailContactViewController.o
+t1310072485
+s46316
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/DetailViewController.o
+t1310072484
+s40440
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/HomeViewController.o
+t1310072484
+s50344
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/MapViewController.o
+t1310072484
+s62208
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/MyMapAnnotations.o
+t1310072484
+s17064
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ScienceViewController.o
+t1310072484
+s45688
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/SupportViewController.o
+t1310072484
+s42228
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/VideoViewController.o
+t1310072485
+s42588
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/XMLParser.o
+t1310072485
+s24052
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/main.o
+t1310072484
+s6488
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app
+t1310072489
+s1666
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app.dSYM
+t1310072488
+s102
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/121-landscape.png
+t1310072480
+s3048
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/123-id-card.png
+t1310072478
+s3023
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/53-house.png
+t1310072478
+s2916
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC
+t1310072488
+s188064
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC_Logo.png
+t1310072480
+s218922
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/AboutViewController.nib
+t1310072478
+s1247
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Anton Kulchitsky.jpg
+t1310072481
+s71020
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Beth_Web.jpg
+t1310072481
+s76712
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Brad_Web_informal.jpg
+t1310072481
+s72618
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Brandon Becker.jpg
+t1310072481
+s85466
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Chris Fallen.jpg
+t1310072481
+s37423
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ContactTableViewController.nib
+t1310072481
+s979
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Dale Clark.jpg
+t1310072480
+s85629
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/DetailContactViewController.nib
+t1310072481
+s2594
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/DetailViewController.nib
+t1310072480
+s1264
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Don_Bahls.png
+t1310072481
+s107744
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Ed_Web.jpg
+t1310072481
+s87999
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Gene_Web.jpg
+t1310072481
+s81708
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/HomeViewController.nib
+t1310072479
+s2636
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Info.plist
+t1310072477
+s769
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Jamie_Web.jpg
+t1310072481
+s72679
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/JeffHarrison_001.jpg
+t1310072481
+s104659
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Kate_Web.jpg
+t1310072481
+s79904
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Kurt Carlson.jpg
+t1310072481
+s99016
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Liam Forbes.jpg
+t1310072481
+s91453
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/MainWindow.nib
+t1310072478
+s2750
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/MapViewController.nib
+t1310072480
+s1449
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Morton.jpg
+t1310072481
+s69531
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Newby.jpg
+t1310072481
+s75204
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/PkgInfo
+t1310072477
+s8
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Places.xml
+t1310072480
+s1309
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ResourceRules.plist
+t1310072477
+s485
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Rob Cermak.jpg
+t1310072481
+s50453
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Sabrina Cook.jpg
+t1310072481
+s111579
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ScienceViewController.nib
+t1310072478
+s1783
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/SupportViewController.nib
+t1310072479
+s1583
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Tom Bachert.jpg
+t1310072481
+s77446
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Tom_Logan_Web.jpg
+t1310072481
+s81388
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/VideoViewController.nib
+t1310072480
+s1430
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/annotations.txt
+t1310072480
+s178
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/embedded.mobileprovision
+t1310072488
+s12719
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/horen_web.jpg
+t1310072481
+s50347
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/krieger_photo.jpg
+t1310072481
+s84296
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/lawrence_murakami.jpg
+t1310072481
+s81466
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/sergei_www.jpg
+t1310072481
+s6689
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m
+c000000004DEF56C2000000000000015F
+t1307530946
+s351
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Anton Kulchitsky.jpg
+c000000004E142C3B000000000001156C
+t1309944891
+s71020
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Beth_Web.jpg
+c000000004E142C860000000000012BA8
+t1309944966
+s76712
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Brad_Web_informal.jpg
+c000000004E142C830000000000011BAA
+t1309944963
+s72618
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Brandon Becker.jpg
+c000000004E142C540000000000014DDA
+t1309944916
+s85466
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Chris Fallen.jpg
+c000000004E142C5C000000000000922F
+t1309944924
+s37423
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Dale Clark.jpg
+c000000004E142C7C0000000000014E7D
+t1309944956
+s85629
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Don_Bahls.png
+c000000004E15EC42000000000001A1FB
+t1310059586
+s107003
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Ed_Web.jpg
+c000000004E142C3900000000000157BF
+t1309944889
+s87999
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Gene_Web.jpg
+c000000004E142C740000000000013F2C
+t1309944948
+s81708
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Jamie_Web.jpg
+c000000004E142C4F0000000000011BE7
+t1309944911
+s72679
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/JeffHarrison_001.jpg
+c000000004E142C3400000000000198D3
+t1309944884
+s104659
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Kate_Web.jpg
+c000000004E142C5F0000000000013820
+t1309944927
+s79904
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Kurt Carlson.jpg
+c000000004E142C6D00000000000182C8
+t1309944941
+s99016
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Liam Forbes.jpg
+c000000004E142C6B000000000001653D
+t1309944939
+s91453
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Morton.jpg
+c000000004E142C680000000000010F9B
+t1309944936
+s69531
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Newby.jpg
+c000000004E142C2300000000000125C4
+t1309944867
+s75204
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Rob Cermak.jpg
+c000000004E142C55000000000000C515
+t1309944917
+s50453
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Sabrina Cook.jpg
+c000000004E142C8F000000000001B3DB
+t1309944975
+s111579
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Tom Bachert.jpg
+c000000004E142C310000000000012E86
+t1309944881
+s77446
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Tom_Logan_Web.jpg
+c000000004E142C3D0000000000013DEC
+t1309944893
+s81388
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/horen_web.jpg
+c000000004E142C70000000000000C4AB
+t1309944944
+s50347
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/krieger_photo.jpg
+c000000004E142C640000000000014948
+t1309944932
+s84296
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/lawrence_murakami.jpg
+c000000004E142C2D0000000000013E3A
+t1309944877
+s81466
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/sergei_www.jpg
+c000000004E142C650000000000001A21
+t1309944933
+s6689
+
+N/Users/rsimon/Library/MobileDevice/Provisioning Profiles/25F8BD26-56D6-4C19-AF89-4AEE76D3DE6D.mobileprovision
+c000000004E03C9F500000000000031AF
+t1308871157
+s12719
+
+N/var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch.gch
+t1310072483
+s10446552
+
+N/var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch.gch
+t1310072483
+s9983704
+
+NARSC-Info.plist
+c000000004DEF56C2000000000000038D
+t1307530946
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331765277#331765277#0(0"0(0#1#0"8621470752#0"0#
+
+CCodeSign "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"
+s331765288.656324
+e331765289.872621
+r1
+xCodeSign
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app
+lSLF07#2@38"CodeSign build/Debug-iphoneos/ARSC.app331765288#331765289#0(0"0(0#0#97"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app8616095712#755"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Rijo Simon (JJLJE8MH2F)" "--resource-rules=/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ResourceRules.plist" --entitlements "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC.xcent" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSCAppDelegate.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765283.385025
+e331765283.559671
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSCAppDelegate.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m331765283#331765283#0(0"0(0#0#93"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m8619990112#2064"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSCAppDelegate.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/AboutViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765283.559841
+e331765283.658742
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/AboutViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m331765283#331765283#0(0"0(0#0#97"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m8618101696#2072"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/AboutViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ContactTableViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765284.028563
+e331765284.142523
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ContactTableViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m331765284#331765284#0(0"0(0#0#104"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m8620029984#2086"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ContactTableViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/DetailContactViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765284.082614
+e331765284.191970
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/DetailContactViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m331765284#331765284#0(0"0(0#0#105"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m8617961472#2088"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/DetailContactViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/DetailViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765283.849291
+e331765283.944966
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/DetailViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m331765283#331765283#0(0"0(0#0#98"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m8619480416#2074"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/DetailViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/HomeViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765283.539925
+e331765283.665265
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/HomeViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m331765283#331765283#0(0"0(0#0#96"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m8619489664#2070"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/HomeViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/MapViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765283.758066
+e331765283.930869
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/MapViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m331765283#331765283#0(0"0(0#0#95"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m8620200832#2068"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/MapViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/MyMapAnnotations.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765283.763322
+e331765283.849003
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/MyMapAnnotations.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m331765283#331765283#0(0"0(0#0#97"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m8619837408#2069"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/MyMapAnnotations.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ScienceViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765283.658843
+e331765283.763223
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ScienceViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m331765283#331765283#0(0"0(0#0#99"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m8613710144#2076"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ScienceViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/SupportViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765283.665357
+e331765283.757963
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/SupportViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m:86: warning: property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m:86: warning: property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@107"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m331765283#331765283#0(479"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m:86: warning: property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m:86: warning: property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@122"Property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation331765283#0#236#0(6@99"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m331666366#86#0#86#0#0"0(22@129"Property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation331765283#236#243#0(6@99"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m331666366#86#0#86#0#0"0(0#0#99"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m8603440896#2076"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/SupportViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/VideoViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765283.930960
+e331765284.028455
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/VideoViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m331765283#331765284#0(0"0(0#0#97"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m8617633920#2072"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/VideoViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/XMLParser.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765283.945062
+e331765284.082511
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/XMLParser.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m331765283#331765284#0(0"0(0#0#90"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m8617313184#2055"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/XMLParser.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/main.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765283.383065
+e331765283.539820
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/main.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m331765283#331765283#0(0"0(0#0#74"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m8620156736#2034"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSCAppDelegate.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765284.208456
+e331765284.294610
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSCAppDelegate.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m331765284#331765284#0(0"0(0#0#93"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m8620675136#2064"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSCAppDelegate.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/AboutViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765284.404816
+e331765284.501750
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/AboutViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m331765284#331765284#0(0"0(0#0#97"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m8617617024#2072"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/AboutViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ContactTableViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765285.183287
+e331765285.316107
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ContactTableViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m331765285#331765285#0(0"0(0#0#104"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m8615659424#2086"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactTableViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ContactTableViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/DetailContactViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765285.316222
+e331765285.437075
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/DetailContactViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m331765285#331765285#0(0"0(0#0#105"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m8619948800#2088"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailContactViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/DetailContactViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/DetailViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765284.918548
+e331765284.999231
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/DetailViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m331765284#331765284#0(0"0(0#0#98"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m8620305632#2074"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/DetailViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/HomeViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765284.294716
+e331765284.404658
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/HomeViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m331765284#331765284#0(0"0(0#0#96"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m8617998592#2070"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/HomeViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/MapViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765284.663150
+e331765284.792397
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/MapViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m331765284#331765284#0(0"0(0#0#95"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m8620421120#2068"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/MapViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/MapViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/MyMapAnnotations.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765284.792495
+e331765284.918289
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/MyMapAnnotations.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m331765284#331765284#0(0"0(0#0#97"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m8612564384#2069"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../MyMapAnnotations.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/MyMapAnnotations.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ScienceViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765284.501854
+e331765284.576049
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ScienceViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m331765284#331765284#0(0"0(0#0#99"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m8620598368#2076"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ScienceViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/SupportViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765284.576162
+e331765284.662925
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/SupportViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m:86: warning: property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m:86: warning: property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@107"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m331765284#331765284#0(479"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m:86: warning: property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m:86: warning: property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@122"Property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation331765284#0#236#0(6@99"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m331666366#86#0#86#0#0"0(22@129"Property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation331765284#236#243#0(6@99"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m331666366#86#0#86#0#0"0(0#0#99"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m8620102624#2076"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/SupportViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/VideoViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765284.999533
+e331765285.083831
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/VideoViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m331765284#331765285#0(0"0(0#0#97"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m8619489344#2072"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/VideoViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/XMLParser.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765285.083934
+e331765285.183185
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/XMLParser.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m331765285#331765285#0(0"0(0#0#90"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m8619592768#2055"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/../XMLParser.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/XMLParser.o"0#
+
+CCompileC build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/main.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765284.142640
+e331765284.208346
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/main.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m331765284#331765284#0(0"0(0#0#74"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m8615676864#2034"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.xib"
+s331765278.043242
+e331765278.612994
+r1
+xCompileXIB
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.xib
+lSLF07#2@42"CompileXIB Classes/AboutViewController.xib331765278#331765278#0(0"0(0#0#99"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.xib8619732448#658"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/AboutViewController.nib" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/AboutViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.xib"
+s331765280.440921
+e331765280.914400
+r1
+xCompileXIB
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.xib
+lSLF07#2@43"CompileXIB Classes/DetailViewController.xib331765280#331765280#0(0"0(0#0#100"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.xib8621349120#660"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/DetailViewController.nib" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/DetailViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.xib"
+s331765278.071447
+e331765279.007628
+r1
+xCompileXIB
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.xib
+lSLF07#2@44"CompileXIB Classes/ScienceViewController.xib331765278#331765279#0(0"0(0#0#101"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.xib8618144864#662"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ScienceViewController.nib" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ScienceViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.xib"
+s331765278.613086
+e331765279.070589
+r1
+xCompileXIB
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.xib
+lSLF07#2@44"CompileXIB Classes/SupportViewController.xib331765278#331765279#0(0"0(0#0#101"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.xib8617743776#662"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/SupportViewController.nib" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/SupportViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.xib"
+s331765280.485559
+e331765281.123082
+r1
+xCompileXIB
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.xib
+lSLF07#2@42"CompileXIB Classes/VideoViewController.xib331765280#331765281#0(0"0(0#0#99"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.xib8620265184#658"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/VideoViewController.nib" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/VideoViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ContactTableViewController.xib"
+s331765281.231937
+e331765281.691562
+r1
+xCompileXIB
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ContactTableViewController.xib
+lSLF07#2@41"CompileXIB ContactTableViewController.xib331765281#331765281#0(0"0(0#0#98"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ContactTableViewController.xib8617622272#664"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ContactTableViewController.nib" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ContactTableViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/DetailContactViewController.xib"
+s331765281.293775
+e331765281.783357
+r1
+xCompileXIB
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/DetailContactViewController.xib
+lSLF07#2@42"CompileXIB DetailContactViewController.xib331765281#331765281#0(0"0(0#0#99"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/DetailContactViewController.xib8615821568#666"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/DetailContactViewController.nib" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/DetailContactViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/HomeViewController.xib"
+s331765279.007834
+e331765279.722169
+r1
+xCompileXIB
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/HomeViewController.xib
+lSLF07#2@33"CompileXIB HomeViewController.xib331765279#331765279#0(0"0(0#0#90"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/HomeViewController.xib8617603360#648"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/HomeViewController.nib" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/HomeViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib"
+s331765277.520139
+e331765278.043164
+r1
+xCompileXIB
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib:215: warning: 'Navigation Controller (Contacts)' has its 'NIB Name' property set to 'ContactTableViewController.nib', but this view controller is not intended to have its view set in this manner.
+lSLF07#2@25"CompileXIB MainWindow.xib331765277#331765278#0(320"/* com.apple.ibtool.document.warnings *//Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib:215: warning: 'Navigation Controller (Contacts)' has its 'NIB Name' property set to 'ContactTableViewController.nib', but this view controller is not intended to have its view set in this manner.1(22@181"'Navigation Controller (Contacts)' has its 'NIB Name' property set to 'ContactTableViewController.nib', but this view controller is not intended to have its view set in this manner.331765278#18446744073709551615#0#0(6@82"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib331677509#215#0#215#0#0"0(0#0#82"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib7954884646492988416#632"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/MainWindow.nib" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MapViewController.xib"
+s331765279.722422
+e331765280.439594
+r1
+xCompileXIB
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MapViewController.xib
+lSLF07#2@32"CompileXIB MapViewController.xib331765279#331765280#0(0"0(0#0#89"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MapViewController.xib8620075680#646"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/MapViewController.nib" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MapViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/121-landscape.png" 121-landscape.png
+s331765280.420433
+e331765280.484676
+r1
+xCopyPNGFile
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/121-landscape.png
+x121-landscape.png
+lSLF07#2@77"CopyPNGFile build/Debug-iphoneos/ARSC.app/121-landscape.png 121-landscape.png331765280#331765280#0(0"0(0#0#85"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/121-landscape.png8617880736#664"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/121-landscape.png" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/121-landscape.png"0#
+
+CCopyPNGFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/123-id-card.png" 123-id-card.png
+s331765278.038158
+e331765278.071343
+r1
+xCopyPNGFile
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/123-id-card.png
+x123-id-card.png
+lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/ARSC.app/123-id-card.png 123-id-card.png331765278#331765278#0(0"0(0#0#83"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/123-id-card.png8620033376#660"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/123-id-card.png" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/123-id-card.png"0#
+
+CCopyPNGFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/53-house.png" 53-house.png
+s331765277.522274
+e331765278.038069
+r1
+xCopyPNGFile
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/53-house.png
+x53-house.png
+lSLF07#2@67"CopyPNGFile build/Debug-iphoneos/ARSC.app/53-house.png 53-house.png331765277#331765278#0(0"0(0#0#80"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/53-house.png8620100032#654"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/53-house.png" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/53-house.png"0#
+
+CCopyPNGFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC_Logo.png" ARSC_Logo.png
+s331765279.070695
+e331765280.420336
+r1
+xCopyPNGFile
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC_Logo.png
+xARSC_Logo.png
+lSLF07#2@69"CopyPNGFile build/Debug-iphoneos/ARSC.app/ARSC_Logo.png ARSC_Logo.png331765279#331765280#0(0"0(0#0#81"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Logo.png8616093696#656"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Logo.png" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC_Logo.png"0#
+
+CCopyPNGFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Don_Bahls.png" profile/Don_Bahls.png
+s331765281.691660
+e331765281.996170
+r1
+xCopyPNGFile
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Don_Bahls.png
+xprofile/Don_Bahls.png
+lSLF07#2@77"CopyPNGFile build/Debug-iphoneos/ARSC.app/Don_Bahls.png profile/Don_Bahls.png331765281#331765281#0(0"0(0#0#89"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Don_Bahls.png8613136032#664"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Don_Bahls.png" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Don_Bahls.png"0#
+
+CCpResource "build/Debug-iphoneos/ARSC.app/Anton Kulchitsky.jpg" "profile/Anton Kulchitsky.jpg"
+s331765280.914594
+e331765281.051288
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Anton Kulchitsky.jpg
+xprofile/Anton Kulchitsky.jpg
+lSLF07#2@33"Copy profile/Anton Kulchitsky.jpg331765280#331765281#0(0"0(0#0#96"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Anton Kulchitsky.jpg8619393984#562"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Anton Kulchitsky.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource "build/Debug-iphoneos/ARSC.app/Brandon Becker.jpg" "profile/Brandon Becker.jpg"
+s331765280.919591
+e331765281.073553
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Brandon Becker.jpg
+xprofile/Brandon Becker.jpg
+lSLF07#2@31"Copy profile/Brandon Becker.jpg331765280#331765281#0(0"0(0#0#94"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Brandon Becker.jpg8617641984#560"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Brandon Becker.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource "build/Debug-iphoneos/ARSC.app/Chris Fallen.jpg" "profile/Chris Fallen.jpg"
+s331765280.925867
+e331765281.051688
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Chris Fallen.jpg
+xprofile/Chris Fallen.jpg
+lSLF07#2@29"Copy profile/Chris Fallen.jpg331765280#331765281#0(0"0(0#0#92"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Chris Fallen.jpg8617482272#558"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Chris Fallen.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource "build/Debug-iphoneos/ARSC.app/Dale Clark.jpg" "profile/Dale Clark.jpg"
+s331765280.930082
+e331765280.940561
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Dale Clark.jpg
+xprofile/Dale Clark.jpg
+lSLF07#2@27"Copy profile/Dale Clark.jpg331765280#331765280#0(0"0(0#0#90"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Dale Clark.jpg8617286048#556"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Dale Clark.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource "build/Debug-iphoneos/ARSC.app/Kurt Carlson.jpg" "profile/Kurt Carlson.jpg"
+s331765281.055039
+e331765281.240051
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Kurt Carlson.jpg
+xprofile/Kurt Carlson.jpg
+lSLF07#2@29"Copy profile/Kurt Carlson.jpg331765281#331765281#0(0"0(0#0#92"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Kurt Carlson.jpg8618093088#558"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Kurt Carlson.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource "build/Debug-iphoneos/ARSC.app/Liam Forbes.jpg" "profile/Liam Forbes.jpg"
+s331765281.073642
+e331765281.240295
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Liam Forbes.jpg
+xprofile/Liam Forbes.jpg
+lSLF07#2@28"Copy profile/Liam Forbes.jpg331765281#331765281#0(0"0(0#0#91"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Liam Forbes.jpg8603028576#557"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Liam Forbes.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource "build/Debug-iphoneos/ARSC.app/Rob Cermak.jpg" "profile/Rob Cermak.jpg"
+s331765281.188892
+e331765281.290039
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Rob Cermak.jpg
+xprofile/Rob Cermak.jpg
+lSLF07#2@27"Copy profile/Rob Cermak.jpg331765281#331765281#0(0"0(0#0#90"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Rob Cermak.jpg8619482656#556"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Rob Cermak.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource "build/Debug-iphoneos/ARSC.app/Sabrina Cook.jpg" "profile/Sabrina Cook.jpg"
+s331765281.212038
+e331765281.293698
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Sabrina Cook.jpg
+xprofile/Sabrina Cook.jpg
+lSLF07#2@29"Copy profile/Sabrina Cook.jpg331765281#331765281#0(0"0(0#0#92"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Sabrina Cook.jpg8619361824#558"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Sabrina Cook.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource "build/Debug-iphoneos/ARSC.app/Tom Bachert.jpg" "profile/Tom Bachert.jpg"
+s331765281.228657
+e331765281.291782
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Tom Bachert.jpg
+xprofile/Tom Bachert.jpg
+lSLF07#2@28"Copy profile/Tom Bachert.jpg331765281#331765281#0(0"0(0#0#91"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Tom Bachert.jpg8617730240#557"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Tom Bachert.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/Beth_Web.jpg profile/Beth_Web.jpg
+s331765280.915733
+e331765281.051410
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Beth_Web.jpg
+xprofile/Beth_Web.jpg
+lSLF07#2@25"Copy profile/Beth_Web.jpg331765280#331765281#0(0"0(0#0#88"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Beth_Web.jpg8618087232#554"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Beth_Web.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/Brad_Web_informal.jpg profile/Brad_Web_informal.jpg
+s331765280.917532
+e331765281.051516
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Brad_Web_informal.jpg
+xprofile/Brad_Web_informal.jpg
+lSLF07#2@34"Copy profile/Brad_Web_informal.jpg331765280#331765281#0(0"0(0#0#97"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Brad_Web_informal.jpg8617832544#563"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Brad_Web_informal.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/Ed_Web.jpg profile/Ed_Web.jpg
+s331765280.931308
+e331765281.033273
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Ed_Web.jpg
+xprofile/Ed_Web.jpg
+lSLF07#2@23"Copy profile/Ed_Web.jpg331765280#331765281#0(0"0(0#0#86"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Ed_Web.jpg8616073568#552"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Ed_Web.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/Gene_Web.jpg profile/Gene_Web.jpg
+s331765280.935214
+e331765281.153387
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Gene_Web.jpg
+xprofile/Gene_Web.jpg
+lSLF07#2@25"Copy profile/Gene_Web.jpg331765280#331765281#0(0"0(0#0#88"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Gene_Web.jpg8615894464#554"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Gene_Web.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/Jamie_Web.jpg profile/Jamie_Web.jpg
+s331765280.940722
+e331765281.188751
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Jamie_Web.jpg
+xprofile/Jamie_Web.jpg
+lSLF07#2@26"Copy profile/Jamie_Web.jpg331765280#331765281#0(0"0(0#0#89"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Jamie_Web.jpg8613835840#555"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Jamie_Web.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/JeffHarrison_001.jpg profile/JeffHarrison_001.jpg
+s331765281.033394
+e331765281.220552
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/JeffHarrison_001.jpg
+xprofile/JeffHarrison_001.jpg
+lSLF07#2@33"Copy profile/JeffHarrison_001.jpg331765281#331765281#0(0"0(0#0#96"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/JeffHarrison_001.jpg8600849952#562"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/JeffHarrison_001.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/Kate_Web.jpg profile/Kate_Web.jpg
+s331765281.051855
+e331765281.211373
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Kate_Web.jpg
+xprofile/Kate_Web.jpg
+lSLF07#2@25"Copy profile/Kate_Web.jpg331765281#331765281#0(0"0(0#0#88"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Kate_Web.jpg8617714464#554"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Kate_Web.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/Morton.jpg profile/Morton.jpg
+s331765281.123166
+e331765281.228272
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Morton.jpg
+xprofile/Morton.jpg
+lSLF07#2@23"Copy profile/Morton.jpg331765281#331765281#0(0"0(0#0#86"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Morton.jpg8620598624#552"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Morton.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/Newby.jpg profile/Newby.jpg
+s331765281.153693
+e331765281.228488
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Newby.jpg
+xprofile/Newby.jpg
+lSLF07#2@22"Copy profile/Newby.jpg331765281#331765281#0(0"0(0#0#85"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Newby.jpg8619669344#551"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Newby.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/Places.xml Places.xml
+s331765280.484756
+e331765280.505105
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Places.xml
+xPlaces.xml
+lSLF07#2@15"Copy Places.xml331765280#331765280#0(0"0(0#0#78"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Places.xml8620595392#544"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Places.xml" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s331765277.450504
+e331765277.519968
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist331765277#331765277#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8603669760#553"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/Tom_Logan_Web.jpg profile/Tom_Logan_Web.jpg
+s331765281.226521
+e331765281.292510
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/Tom_Logan_Web.jpg
+xprofile/Tom_Logan_Web.jpg
+lSLF07#2@30"Copy profile/Tom_Logan_Web.jpg331765281#331765281#0(0"0(0#0#93"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Tom_Logan_Web.jpg8617872544#559"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/Tom_Logan_Web.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/annotations.txt annotations.txt
+s331765280.439688
+e331765280.447935
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/annotations.txt
+xannotations.txt
+lSLF07#2@20"Copy annotations.txt331765280#331765280#0(0"0(0#0#83"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/annotations.txt8617500256#549"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/annotations.txt" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/horen_web.jpg profile/horen_web.jpg
+s331765280.939324
+e331765281.228594
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/horen_web.jpg
+xprofile/horen_web.jpg
+lSLF07#2@26"Copy profile/horen_web.jpg331765280#331765281#0(0"0(0#0#89"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/horen_web.jpg8613740000#555"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/horen_web.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/krieger_photo.jpg profile/krieger_photo.jpg
+s331765281.054187
+e331765281.220432
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/krieger_photo.jpg
+xprofile/krieger_photo.jpg
+lSLF07#2@30"Copy profile/krieger_photo.jpg331765281#331765281#0(0"0(0#0#93"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/krieger_photo.jpg8613499168#559"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/krieger_photo.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/lawrence_murakami.jpg profile/lawrence_murakami.jpg
+s331765281.055871
+e331765281.228386
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/lawrence_murakami.jpg
+xprofile/lawrence_murakami.jpg
+lSLF07#2@34"Copy profile/lawrence_murakami.jpg331765281#331765281#0(0"0(0#0#97"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/lawrence_murakami.jpg8590162208#563"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/lawrence_murakami.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCpResource build/Debug-iphoneos/ARSC.app/sergei_www.jpg profile/sergei_www.jpg
+s331765281.220621
+e331765281.289915
+r1
+xCpResource
+xbuild/Debug-iphoneos/ARSC.app/sergei_www.jpg
+xprofile/sergei_www.jpg
+lSLF07#2@27"Copy profile/sergei_www.jpg331765281#331765281#0(0"0(0#0#90"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/sergei_www.jpg8618037568#556"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/profile/sergei_www.jpg" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+
+CCreateUniversalBinary "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC" normal "armv6 armv7"
+s331765288.451704
+e331765288.503385
+r1
+xCreateUniversalBinary
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC
+xnormal
+xarmv6 armv7
+lSLF07#2@77"CreateUniversalBinary build/Debug-iphoneos/ARSC.app/ARSC normal "armv6 armv7"331765288#331765288#0(0"0(0#0#79"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/armv6 armv78619870592#618"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSC" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSC" -output "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC"0#
+
+CGenerateDSYMFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app.dSYM" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC"
+s331765288.503474
+e331765288.601059
+r1
+xGenerateDSYMFile
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app.dSYM
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC
+lSLF07#2@86"GenerateDSYMFile build/Debug-iphoneos/ARSC.app.dSYM build/Debug-iphoneos/ARSC.app/ARSC331765288#331765288#0(0"0(0#0#102"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC8617353504#446"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ARSC" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app.dSYM"0#
+
+CLd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSC" normal armv6
+s331765284.192072
+e331765288.442924
+r1
+xLd
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSC
+xnormal
+xarmv6
+lSLF07#2@141"Link /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSC331765284#331765288#0(0"0(0#0#0"8613737664#1061"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -filelist "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSC.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -framework MediaPlayer -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv6/ARSC"0#
+
+CLd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSC" normal armv7
+s331765285.437175
+e331765288.451612
+r1
+xLd
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSC
+xnormal
+xarmv7
+lSLF07#2@141"Link /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSC331765285#331765288#0(0"0(0#0#0"8617951456#1061"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -filelist "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSC.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -framework MediaPlayer -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/Objects-normal/armv7/ARSC"0#
+
+CProcessInfoPlistFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Info.plist" ARSC-Info.plist
+s331765277.451815
+e331765277.491329
+r1
+xProcessInfoPlistFile
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Info.plist
+xARSC-Info.plist
+lSLF07#2@23"Process ARSC-Info.plist331765277#331765277#0(0"0(0#0#83"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC-Info.plist8590339008#674"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ARSC-Info.plist -genpkginfo "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/ResourceRules.plist" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/Info.plist"0#
+
+CProcessPCH /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch.gch ARSC_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s331765281.997323
+e331765283.382898
+r1
+xProcessPCH
+x/var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch.gch
+xARSC_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile ARSC_Prefix.pch331765281#331765283#0(0"0(0#0#83"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Prefix.pch8617661024#1904"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv7" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Prefix.pch" -o /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gaphclezhzumsjfryjksncgspbre/ARSC_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch.gch ARSC_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s331765281.996292
+e331765283.349836
+r1
+xProcessPCH
+x/var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch.gch
+xARSC_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile ARSC_Prefix.pch331765281#331765283#0(0"0(0#0#83"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Prefix.pch8619652512#1904"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos" -iquote/usr/include/libxml2 "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources/armv6" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/DerivedSources" -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Prefix.pch" -o /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-gkjvmgjyxbiozfambxhmvxkjbwlx/ARSC_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/rsimon/Library/MobileDevice/Provisioning Profiles/25F8BD26-56D6-4C19-AF89-4AEE76D3DE6D.mobileprovision" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/embedded.mobileprovision"
+s331765288.601219
+e331765288.627600
+r1
+xProcessProductPackaging
+x/Users/rsimon/Library/MobileDevice/Provisioning Profiles/25F8BD26-56D6-4C19-AF89-4AEE76D3DE6D.mobileprovision
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/embedded.mobileprovision
+lSLF07#2@190"ProcessProductPackaging "/Users/rsimon/Library/MobileDevice/Provisioning Profiles/25F8BD26-56D6-4C19-AF89-4AEE76D3DE6D.mobileprovision" build/Debug-iphoneos/ARSC.app/embedded.mobileprovision331765288#331765288#0(0"0(0#0#122"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/embedded.mobileprovision8620084288#483"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/rsimon/Library/MobileDevice/Provisioning Profiles/25F8BD26-56D6-4C19-AF89-4AEE76D3DE6D.mobileprovision" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC.xcent"
+s331765288.632850
+e331765288.656208
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC.xcent
+lSLF07#2@166"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC.xcent331765288#331765288#0(0"0(0#0#121"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC.xcent8618124736#485"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphoneos/ARSC.build/ARSC.xcent"0#
+
+CTouch "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"
+s331765288.627679
+e331765288.632772
+r1
+xTouch
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app
+lSLF07#2@103"Touch /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app331765288#331765288#0(0"0(0#0#0"8619690688#323"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphoneos/ARSC.app"0#
+

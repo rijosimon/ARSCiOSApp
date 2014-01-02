@@ -1,0 +1,11 @@
+name: South Fairbanks
+latitude: 64.855590
+longitude: -147.847703
+
+name: Fairbanks
+latitude: 64.859890
+longitude: -147.847703
+
+name: Hola
+latitude: 64.85670
+longitude: -147.847703

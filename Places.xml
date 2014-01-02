@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<allPoints>
+<point>
+<name>UAF</name>
+<latitude>64.858890</latitude>
+<longitude>-147.847703</longitude>
+<subtitle>Univeresity of Alaska Fairbanks Campus</subtitle>
+<type>detail</type>
+<text>This is just to test the capability of the XML parser to make sure that we could provide an updated XML file, and this would show the user where new research is being done.</text>
+</point>
+<point>
+<name>Rijo's Presentation</name>
+<latitude>64.859890</latitude>
+<longitude>-147.849303</longitude>
+<subtitle>ARSC Research Project Assistant Presentation by Rijo Simon</subtitle>
+<type>movie</type>
+<text>http://people.arsc.edu/~rsimon/podmedia/rijo.mp4</text>
+</point>
+<point>
+<name>Craig's Presentation</name>
+<latitude>64.859890</latitude>
+<longitude>-147.848703</longitude>
+<subtitle>ARSC Research Project Assistant Presentation by Craig Millard</subtitle>
+<type>movie</type>
+<text>http://people.arsc.edu/~rsimon/podmedia/craig.mp4</text>
+</point>
+<point>
+<name>Building a Supercomputer</name>
+<latitude>64.857450</latitude>
+<longitude>-147.849703</longitude>
+<subtitle>Watch this time lapse of a new supercomputer being put together in the machine room</subtitle>
+<type>movie</type>
+<text>http://people.arsc.edu/~rsimon/podmedia/Pingo_Time_Lapse.mov</text>
+</point>
+</allPoints>
+

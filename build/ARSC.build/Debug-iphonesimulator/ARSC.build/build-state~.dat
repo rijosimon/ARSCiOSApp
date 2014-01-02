@@ -1,0 +1,316 @@
+TARSC
+v7
+r0
+t329240070.142684
+cCheck dependencies
+cProcessInfoPlistFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/Info.plist" ARSC-Info.plist
+cCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/ARSC.app/ARSC_Logo.png ARSC_Logo.png
+cProcessPCH /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-amnwrclwutfvijfamzbhnhyouaaz/ARSC_Prefix.pch.gch ARSC_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/main.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/ARSCAppDelegate.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/HomeViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/ContactViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Logo.png
+c000000004DEF93FD000000000000CE7D
+t1307546621
+s52861
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Prefix.pch
+c000000004DEF56C200000000000000B1
+t1307530946
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.h
+c000000004DEF56C200000000000001CD
+t1307530946
+s461
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m
+c000000004DEF56C20000000000000C30
+t1307530946
+s3120
+i"ARSCAppDelegate.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactViewController.h
+c000000004DEF574400000000000000E8
+t1307531076
+s232
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactViewController.m
+c000000004DEF57440000000000000627
+t1307531076
+s1575
+i"ContactViewController.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/FirstViewController.h
+c000000004DEF56C200000000000000E4
+t1307530946
+s228
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/FirstViewController.m
+c000000004DEF56C200000000000005AD
+t1307530946
+s1453
+i"FirstViewController.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.h
+c000000004DEF95780000000000000107
+t1307547000
+s263
+i<UIKit/UIKit.h>
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m
+c000000004DEF967A0000000000000720
+t1307547258
+s1824
+i"HomeViewController.h"
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/FirstView.xib
+c000000004DEF56C200000000000049CE
+t1307530946
+s18894
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib
+c000000004DEF56C20000000000006422
+t1307530946
+s25634
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/SecondView.xib
+c000000004DEF56C200000000000049CC
+t1307530946
+s18892
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/ARSC.LinkFileList
+c000000004DEF967A000000000000026E
+t1307547258
+s622
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/ARSCAppDelegate.o
+t1307547270
+s54252
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/ContactViewController.o
+t1307547270
+s37768
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/FirstViewController.o
+t2
+s0
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/HomeViewController.o
+t2
+s0
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/main.o
+t1307547268
+s6368
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app
+t2
+s0
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app.dSYM
+t2
+s0
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/ARSC
+t2
+s0
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/ARSC_Logo.png
+t1307547259
+s52861
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/FirstView.nib
+t2
+s0
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/Info.plist
+t1307547258
+s579
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/MainWindow.nib
+t1307547264
+s1691
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/PkgInfo
+t1307547258
+s8
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/SecondView.nib
+t2
+s0
+
+N/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m
+c000000004DEF56C2000000000000015F
+t1307530946
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-amnwrclwutfvijfamzbhnhyouaaz/ARSC_Prefix.pch.gch
+t1307547268
+s15453392
+
+NARSC-Info.plist
+c000000004DEF56C2000000000000038D
+t1307530946
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329240058#329240058#0(0"0(0#1#0"8619388192#0"0#
+
+CCompileC build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/ARSCAppDelegate.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329240068.508919
+e329240070.027932
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/ARSCAppDelegate.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m329240068#329240070#0(0"0(0#0#93"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m8624469600#2226"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/DerivedSources/i386" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-amnwrclwutfvijfamzbhnhyouaaz/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ARSCAppDelegate.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/ARSCAppDelegate.o"0#
+
+CCompileC build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/ContactViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329240070.022265
+e329240070.142599
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/ContactViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactViewController.m329240070#329240070#0(0"0(0#0#99"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactViewController.m8624316704#2238"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/DerivedSources/i386" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-amnwrclwutfvijfamzbhnhyouaaz/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/ContactViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/ContactViewController.o"0#
+
+CCompileC build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/FirstViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/HomeViewController.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329240068.910920
+e329240070.022012
+r0
+xCompileC
+xbuild/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/HomeViewController.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m:9:
+o/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.h:14: error: expected specifier-qualifier-list before '-' token
+o/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m: In function '-[HomeViewController viewDidLoad]':
+o/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m:18: error: 'imageView' undeclared (first use in this function)
+o/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m:18: error: (Each undeclared identifier is reported only once
+o/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m:18: error: for each function it appears in.)
+o/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m: In function '-[HomeViewController dealloc]':
+o/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m:72: error: 'imageView' undeclared (first use in this function)
+lSLF07#2@104"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m329240068#329240070#0(1191"In file included from /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m:9:/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.h:14: error: expected specifier-qualifier-list before '-' token/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m: In function '-[HomeViewController viewDidLoad]':/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m:18: error: 'imageView' undeclared (first use in this function)/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m:18: error: (Each undeclared identifier is reported only once/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m:18: error: for each function it appears in.)/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m: In function '-[HomeViewController dealloc]':/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m:72: error: 'imageView' undeclared (first use in this function)3(4@50"Expected specifier-qualifier-list before '-' token329240069#122#159#2(7@118"In file included from /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m329240069#18446744073709551615#0#0(6@96"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m329240058#9#0#9#0#0"0(13@150"Expected specifier-qualifier-list before '-' token in /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.h329240069#18446744073709551615#0#0(6@96"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.h329239800#14#0#14#0#0"0(6@96"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.h329239800#14#0#14#0#19"expected * before *0(4@51"'imageView' undeclared (first use in this function)329240069#428#160#0(6@96"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m329240058#18#0#18#0#43"'*' undeclared (first use in this function)0(4@51"'imageView' undeclared (first use in this function)329240069#1031#160#0(6@96"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m329240058#72#0#72#0#43"'*' undeclared (first use in this function)0(0#0#96"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m8625138368#2232"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/DerivedSources/i386" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-amnwrclwutfvijfamzbhnhyouaaz/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/Classes/HomeViewController.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/HomeViewController.o"1#
+
+CCompileC build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/main.o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329240068.507722
+e329240068.910814
+r1
+xCompileC
+xbuild/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/main.o
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m329240068#329240068#0(0"0(0#0#74"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m8626028416#2196"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/DerivedSources/i386" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/DerivedSources" -include /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-amnwrclwutfvijfamzbhnhyouaaz/ARSC_Prefix.pch -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/main.m" -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/FirstView.xib"
+r0
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib"
+s329240058.792546
+e329240064.344692
+r1
+xCompileXIB
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib329240058#329240064#0(0"0(0#0#82"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib8620709728#660"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/MainWindow.nib" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/SecondView.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/ARSC.app/ARSC_Logo.png ARSC_Logo.png
+s329240058.881879
+e329240059.055566
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ARSC.app/ARSC_Logo.png
+xARSC_Logo.png
+lSLF07#2@18"Copy ARSC_Logo.png329240058#329240059#0(0"0(0#0#81"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Logo.png8620217600#561"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Logo.png" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app"0#
+
+CGenerateDSYMFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app.dSYM" "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/ARSC"
+r0
+
+CLd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/ARSC" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/Info.plist" ARSC-Info.plist
+s329240058.760957
+e329240058.792443
+r1
+xProcessInfoPlistFile
+x/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/Info.plist
+xARSC-Info.plist
+lSLF07#2@23"Process ARSC-Info.plist329240058#329240058#0(0"0(0#0#83"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC-Info.plist8622403424#563"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ARSC-Info.plist -genpkginfo "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app/Info.plist"0#
+
+CProcessPCH /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-amnwrclwutfvijfamzbhnhyouaaz/ARSC_Prefix.pch.gch ARSC_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s329240064.345049
+e329240068.507457
+r1
+xProcessPCH
+x/var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-amnwrclwutfvijfamzbhnhyouaaz/ARSC_Prefix.pch.gch
+xARSC_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile ARSC_Prefix.pch329240064#329240068#0(0"0(0#0#83"/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Prefix.pch8614099392#2060"    cd "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-generated-files.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-own-target-headers.hmap" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-all-target-headers.hmap" -iquote "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/ARSC-project-headers.hmap" "-F/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/include" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/DerivedSources/i386" "-I/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/ARSC.build/Debug-iphonesimulator/ARSC.build/DerivedSources" -c "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/ARSC_Prefix.pch" -o /var/folders/+b/+bb4-9VkGlSTQFrd8AtPMU++3A6/-Caches-/com.apple.Xcode.5314/SharedPrecompiledHeaders/ARSC_Prefix-amnwrclwutfvijfamzbhnhyouaaz/ARSC_Prefix.pch.gch0#
+
+CTouch "/Users/rsimon/Documents/ARSC/App Development - Newby/Workspace/ARSC/build/Debug-iphonesimulator/ARSC.app"
+r0
+

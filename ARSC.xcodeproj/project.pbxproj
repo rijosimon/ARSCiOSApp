@@ -1,0 +1,505 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		030A6E0713B1424300895825 /* MapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 030A6E0613B1424300895825 /* MapViewController.xib */; };
+		030A6E2F13B14DB300895825 /* 121-landscape.png in Resources */ = {isa = PBXBuildFile; fileRef = 030A6E2E13B14DB300895825 /* 121-landscape.png */; };
+		030A702713B540FB00895825 /* annotations.txt in Resources */ = {isa = PBXBuildFile; fileRef = 030A702613B540FB00895825 /* annotations.txt */; };
+		0342BDF613BA77050093357B /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0342BDF413BA77050093357B /* DetailViewController.xib */; };
+		03EA595613B12BA500D5C789 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 03EA595513B12BA500D5C789 /* HomeViewController.xib */; };
+		03EA596013B12CF300D5C789 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03EA595F13B12CF300D5C789 /* MapKit.framework */; };
+		03EA597913B12D0000D5C789 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03EA597813B12D0000D5C789 /* CoreLocation.framework */; };
+		03EA59AB13B130D300D5C789 /* ARSC_Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 03EA59AA13B130D300D5C789 /* ARSC_Logo.png */; };
+		03F6198513BD4F2D00753A61 /* Places.xml in Resources */ = {isa = PBXBuildFile; fileRef = 03F6198413BD4F2D00753A61 /* Places.xml */; };
+		03F6199113BD517E00753A61 /* VideoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03F6198F13BD517E00753A61 /* VideoViewController.m */; };
+		03F6199213BD517E00753A61 /* VideoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 03F6199013BD517E00753A61 /* VideoViewController.xib */; };
+		03F6199413BD51C700753A61 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03F6199313BD51C700753A61 /* MediaPlayer.framework */; };
+		1D3623260D0F684500981E51 /* ARSCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* ARSCAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765070DF74369002DB57D /* CoreGraphics.framework */; };
+		28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD73870D9D96C1002E5188 /* MainWindow.xib */; };
+		8F2EF61913EA2D64002E3D52 /* XMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F2EF61813EA2D64002E3D52 /* XMLParser.m */; };
+		8F2EF61C13EA2D6B002E3D52 /* MyMapAnnotations.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F2EF61B13EA2D6B002E3D52 /* MyMapAnnotations.m */; };
+		8F2EF62713EA2F43002E3D52 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F2EF62613EA2F43002E3D52 /* DetailViewController.m */; };
+		8F60CDBF13C4F7F500100E18 /* ContactTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F60CDBE13C4F7F500100E18 /* ContactTableViewController.m */; };
+		8F60CDC213C4F80200100E18 /* DetailContactViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F60CDC113C4F80200100E18 /* DetailContactViewController.m */; };
+		8F60CDDC13C4F81500100E18 /* Anton Kulchitsky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDC413C4F81400100E18 /* Anton Kulchitsky.jpg */; };
+		8F60CDDD13C4F81500100E18 /* Beth Mercer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDC513C4F81400100E18 /* Beth Mercer.jpg */; };
+		8F60CDDE13C4F81500100E18 /* Brad Havel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDC613C4F81400100E18 /* Brad Havel.jpg */; };
+		8F60CDDF13C4F81500100E18 /* Brandon Becker.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDC713C4F81400100E18 /* Brandon Becker.jpg */; };
+		8F60CDE013C4F81500100E18 /* Chris Fallen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDC813C4F81400100E18 /* Chris Fallen.jpg */; };
+		8F60CDE113C4F81500100E18 /* Dale Clark.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDC913C4F81400100E18 /* Dale Clark.jpg */; };
+		8F60CDE313C4F81500100E18 /* Ed Kornkven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDCB13C4F81400100E18 /* Ed Kornkven.jpg */; };
+		8F60CDE413C4F81500100E18 /* Gene McGill.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDCC13C4F81400100E18 /* Gene McGill.jpg */; };
+		8F60CDE513C4F81500100E18 /* Jonathan Horen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDCD13C4F81400100E18 /* Jonathan Horen.jpg */; };
+		8F60CDE613C4F81500100E18 /* Jamie Marschner.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDCE13C4F81400100E18 /* Jamie Marschner.jpg */; };
+		8F60CDE713C4F81500100E18 /* Jeff Harrison.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDCF13C4F81400100E18 /* Jeff Harrison.jpg */; };
+		8F60CDE813C4F81500100E18 /* Kate Hedstrom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDD013C4F81400100E18 /* Kate Hedstrom.jpg */; };
+		8F60CDE913C4F81500100E18 /* Jeremy Krieger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDD113C4F81500100E18 /* Jeremy Krieger.jpg */; };
+		8F60CDEA13C4F81500100E18 /* Kurt Carlson.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDD213C4F81500100E18 /* Kurt Carlson.jpg */; };
+		8F60CDEB13C4F81500100E18 /* Lawrence Murakami.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDD313C4F81500100E18 /* Lawrence Murakami.jpg */; };
+		8F60CDEC13C4F81500100E18 /* Liam Forbes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDD413C4F81500100E18 /* Liam Forbes.jpg */; };
+		8F60CDED13C4F81500100E18 /* Don Morton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDD513C4F81500100E18 /* Don Morton.jpg */; };
+		8F60CDEE13C4F81500100E18 /* Greg Newby.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDD613C4F81500100E18 /* Greg Newby.jpg */; };
+		8F60CDEF13C4F81500100E18 /* Rob Cermak.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDD713C4F81500100E18 /* Rob Cermak.jpg */; };
+		8F60CDF013C4F81500100E18 /* Sabrina Cook.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDD813C4F81500100E18 /* Sabrina Cook.jpg */; };
+		8F60CDF113C4F81500100E18 /* Sergei Maurits.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDD913C4F81500100E18 /* Sergei Maurits.jpg */; };
+		8F60CDF213C4F81500100E18 /* Tom Logan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDDA13C4F81500100E18 /* Tom Logan.jpg */; };
+		8F60CDF313C4F81500100E18 /* Tom Bachert.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDDB13C4F81500100E18 /* Tom Bachert.jpg */; };
+		8F60CDF713C4F90200100E18 /* ContactTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDF613C4F90200100E18 /* ContactTableViewController.xib */; };
+		8F60CDF913C4FA4B00100E18 /* DetailContactViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F60CDF813C4FA4B00100E18 /* DetailContactViewController.xib */; };
+		8F6F974513DDF0C600D013CF /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F6F974413DDF0C600D013CF /* MapViewController.m */; };
+		8F6F974913DDF6A600D013CF /* HTMLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F6F974813DDF6A600D013CF /* HTMLViewController.m */; };
+		8F6F976213DDF6BB00D013CF /* HTMLViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F6F976113DDF6BB00D013CF /* HTMLViewController.xib */; };
+		8F7BE08413CBB134000212B6 /* Rijo Simon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F7BE08313CBB134000212B6 /* Rijo Simon.jpg */; };
+		8F7BE08813CBB3E7000212B6 /* Bob Torgerson.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F7BE08713CBB3E7000212B6 /* Bob Torgerson.jpg */; };
+		8F7BE08A13CBB3ED000212B6 /* Kayla Harrison.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F7BE08913CBB3ED000212B6 /* Kayla Harrison.jpg */; };
+		8F7BE08E13CBB445000212B6 /* Craig Millard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F7BE08D13CBB445000212B6 /* Craig Millard.jpg */; };
+		8FD5BFAC139F8EB100839DAF /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FD5BFAB139F8EB100839DAF /* HomeViewController.m */; };
+		8FD5C12913A147BC00839DAF /* 53-house.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FD5C12813A147BC00839DAF /* 53-house.png */; };
+		8FD5C12D13A1482F00839DAF /* 123-id-card.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FD5C12C13A1482F00839DAF /* 123-id-card.png */; };
+		8FD5C14813A14AF700839DAF /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FD5C14613A14AF700839DAF /* AboutViewController.m */; };
+		8FD5C14913A14AF700839DAF /* AboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8FD5C14713A14AF700839DAF /* AboutViewController.xib */; };
+		8FD5C1D313A19B0800839DAF /* ScienceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FD5C1D113A19B0800839DAF /* ScienceViewController.m */; };
+		8FD5C1D413A19B0800839DAF /* ScienceViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8FD5C1D213A19B0800839DAF /* ScienceViewController.xib */; };
+		8FD5C1D813A19B2E00839DAF /* SupportViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FD5C1D613A19B2E00839DAF /* SupportViewController.m */; };
+		8FD5C1D913A19B2E00839DAF /* SupportViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8FD5C1D713A19B2E00839DAF /* SupportViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		030A6E0613B1424300895825 /* MapViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MapViewController.xib; sourceTree = "<group>"; };
+		030A6E2E13B14DB300895825 /* 121-landscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "121-landscape.png"; sourceTree = "<group>"; };
+		030A702613B540FB00895825 /* annotations.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = annotations.txt; sourceTree = "<group>"; };
+		0342BDF413BA77050093357B /* DetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailViewController.xib; sourceTree = "<group>"; };
+		03EA595513B12BA500D5C789 /* HomeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		03EA595F13B12CF300D5C789 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		03EA597813B12D0000D5C789 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		03EA59AA13B130D300D5C789 /* ARSC_Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ARSC_Logo.png; sourceTree = "<group>"; };
+		03F6198413BD4F2D00753A61 /* Places.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Places.xml; sourceTree = "<group>"; };
+		03F6198E13BD517E00753A61 /* VideoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoViewController.h; sourceTree = "<group>"; };
+		03F6198F13BD517E00753A61 /* VideoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoViewController.m; sourceTree = "<group>"; };
+		03F6199013BD517E00753A61 /* VideoViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = VideoViewController.xib; path = Classes/VideoViewController.xib; sourceTree = "<group>"; };
+		03F6199313BD51C700753A61 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* ARSCAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ARSCAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* ARSCAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ARSCAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* ARSC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARSC.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765070DF74369002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AB4B0D9B1048005BE974 /* ARSC_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ARSC_Prefix.pch; sourceTree = "<group>"; };
+		28AD73870D9D96C1002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* ARSC-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ARSC-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		8F2EF61713EA2D5E002E3D52 /* XMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMLParser.h; sourceTree = "<group>"; };
+		8F2EF61813EA2D64002E3D52 /* XMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMLParser.m; sourceTree = "<group>"; };
+		8F2EF61A13EA2D68002E3D52 /* MyMapAnnotations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyMapAnnotations.h; sourceTree = "<group>"; };
+		8F2EF61B13EA2D6B002E3D52 /* MyMapAnnotations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyMapAnnotations.m; sourceTree = "<group>"; };
+		8F2EF62513EA2F3F002E3D52 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		8F2EF62613EA2F43002E3D52 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		8F60CDB313C4F7E300100E18 /* ContactTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactTableViewController.h; sourceTree = "<group>"; };
+		8F60CDBE13C4F7F500100E18 /* ContactTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactTableViewController.m; sourceTree = "<group>"; };
+		8F60CDC113C4F80200100E18 /* DetailContactViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailContactViewController.m; sourceTree = "<group>"; };
+		8F60CDC413C4F81400100E18 /* Anton Kulchitsky.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Anton Kulchitsky.jpg"; path = "profile/Anton Kulchitsky.jpg"; sourceTree = "<group>"; };
+		8F60CDC513C4F81400100E18 /* Beth Mercer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Beth Mercer.jpg"; path = "profile/Beth Mercer.jpg"; sourceTree = "<group>"; };
+		8F60CDC613C4F81400100E18 /* Brad Havel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Brad Havel.jpg"; path = "profile/Brad Havel.jpg"; sourceTree = "<group>"; };
+		8F60CDC713C4F81400100E18 /* Brandon Becker.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Brandon Becker.jpg"; path = "profile/Brandon Becker.jpg"; sourceTree = "<group>"; };
+		8F60CDC813C4F81400100E18 /* Chris Fallen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Chris Fallen.jpg"; path = "profile/Chris Fallen.jpg"; sourceTree = "<group>"; };
+		8F60CDC913C4F81400100E18 /* Dale Clark.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Dale Clark.jpg"; path = "profile/Dale Clark.jpg"; sourceTree = "<group>"; };
+		8F60CDCB13C4F81400100E18 /* Ed Kornkven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Ed Kornkven.jpg"; path = "profile/Ed Kornkven.jpg"; sourceTree = "<group>"; };
+		8F60CDCC13C4F81400100E18 /* Gene McGill.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Gene McGill.jpg"; path = "profile/Gene McGill.jpg"; sourceTree = "<group>"; };
+		8F60CDCD13C4F81400100E18 /* Jonathan Horen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Jonathan Horen.jpg"; path = "profile/Jonathan Horen.jpg"; sourceTree = "<group>"; };
+		8F60CDCE13C4F81400100E18 /* Jamie Marschner.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Jamie Marschner.jpg"; path = "profile/Jamie Marschner.jpg"; sourceTree = "<group>"; };
+		8F60CDCF13C4F81400100E18 /* Jeff Harrison.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Jeff Harrison.jpg"; path = "profile/Jeff Harrison.jpg"; sourceTree = "<group>"; };
+		8F60CDD013C4F81400100E18 /* Kate Hedstrom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Kate Hedstrom.jpg"; path = "profile/Kate Hedstrom.jpg"; sourceTree = "<group>"; };
+		8F60CDD113C4F81500100E18 /* Jeremy Krieger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Jeremy Krieger.jpg"; path = "profile/Jeremy Krieger.jpg"; sourceTree = "<group>"; };
+		8F60CDD213C4F81500100E18 /* Kurt Carlson.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Kurt Carlson.jpg"; path = "profile/Kurt Carlson.jpg"; sourceTree = "<group>"; };
+		8F60CDD313C4F81500100E18 /* Lawrence Murakami.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Lawrence Murakami.jpg"; path = "profile/Lawrence Murakami.jpg"; sourceTree = "<group>"; };
+		8F60CDD413C4F81500100E18 /* Liam Forbes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Liam Forbes.jpg"; path = "profile/Liam Forbes.jpg"; sourceTree = "<group>"; };
+		8F60CDD513C4F81500100E18 /* Don Morton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Don Morton.jpg"; path = "profile/Don Morton.jpg"; sourceTree = "<group>"; };
+		8F60CDD613C4F81500100E18 /* Greg Newby.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Greg Newby.jpg"; path = "profile/Greg Newby.jpg"; sourceTree = "<group>"; };
+		8F60CDD713C4F81500100E18 /* Rob Cermak.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Rob Cermak.jpg"; path = "profile/Rob Cermak.jpg"; sourceTree = "<group>"; };
+		8F60CDD813C4F81500100E18 /* Sabrina Cook.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Sabrina Cook.jpg"; path = "profile/Sabrina Cook.jpg"; sourceTree = "<group>"; };
+		8F60CDD913C4F81500100E18 /* Sergei Maurits.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Sergei Maurits.jpg"; path = "profile/Sergei Maurits.jpg"; sourceTree = "<group>"; };
+		8F60CDDA13C4F81500100E18 /* Tom Logan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Tom Logan.jpg"; path = "profile/Tom Logan.jpg"; sourceTree = "<group>"; };
+		8F60CDDB13C4F81500100E18 /* Tom Bachert.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Tom Bachert.jpg"; path = "profile/Tom Bachert.jpg"; sourceTree = "<group>"; };
+		8F60CDF613C4F90200100E18 /* ContactTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ContactTableViewController.xib; sourceTree = "<group>"; };
+		8F60CDF813C4FA4B00100E18 /* DetailContactViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailContactViewController.xib; sourceTree = "<group>"; };
+		8F60CE3713C5011300100E18 /* DetailContactViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailContactViewController.h; sourceTree = "<group>"; };
+		8F6F974313DDF0C600D013CF /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		8F6F974413DDF0C600D013CF /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
+		8F6F974813DDF6A600D013CF /* HTMLViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTMLViewController.m; sourceTree = "<group>"; };
+		8F6F974A13DDF6AD00D013CF /* HTMLViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTMLViewController.h; sourceTree = "<group>"; };
+		8F6F976113DDF6BB00D013CF /* HTMLViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HTMLViewController.xib; sourceTree = "<group>"; };
+		8F7BE08313CBB134000212B6 /* Rijo Simon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Rijo Simon.jpg"; sourceTree = "<group>"; };
+		8F7BE08713CBB3E7000212B6 /* Bob Torgerson.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Bob Torgerson.jpg"; sourceTree = "<group>"; };
+		8F7BE08913CBB3ED000212B6 /* Kayla Harrison.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kayla Harrison.jpg"; sourceTree = "<group>"; };
+		8F7BE08D13CBB445000212B6 /* Craig Millard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Craig Millard.jpg"; sourceTree = "<group>"; };
+		8FD5BFAA139F8EB100839DAF /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		8FD5BFAB139F8EB100839DAF /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		8FD5C12813A147BC00839DAF /* 53-house.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "53-house.png"; sourceTree = "<group>"; };
+		8FD5C12C13A1482F00839DAF /* 123-id-card.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "123-id-card.png"; sourceTree = "<group>"; };
+		8FD5C14513A14AF700839DAF /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
+		8FD5C14613A14AF700839DAF /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		8FD5C14713A14AF700839DAF /* AboutViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = AboutViewController.xib; path = Classes/AboutViewController.xib; sourceTree = "<group>"; };
+		8FD5C1D013A19B0800839DAF /* ScienceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScienceViewController.h; sourceTree = "<group>"; };
+		8FD5C1D113A19B0800839DAF /* ScienceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScienceViewController.m; sourceTree = "<group>"; };
+		8FD5C1D213A19B0800839DAF /* ScienceViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ScienceViewController.xib; path = Classes/ScienceViewController.xib; sourceTree = "<group>"; };
+		8FD5C1D513A19B2E00839DAF /* SupportViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SupportViewController.h; sourceTree = "<group>"; };
+		8FD5C1D613A19B2E00839DAF /* SupportViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SupportViewController.m; sourceTree = "<group>"; };
+		8FD5C1D713A19B2E00839DAF /* SupportViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SupportViewController.xib; path = Classes/SupportViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */,
+				03EA596013B12CF300D5C789 /* MapKit.framework in Frameworks */,
+				03EA597913B12D0000D5C789 /* CoreLocation.framework in Frameworks */,
+				03F6199413BD51C700753A61 /* MediaPlayer.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				03F6198E13BD517E00753A61 /* VideoViewController.h */,
+				03F6198F13BD517E00753A61 /* VideoViewController.m */,
+				8F2EF62513EA2F3F002E3D52 /* DetailViewController.h */,
+				8F2EF62613EA2F43002E3D52 /* DetailViewController.m */,
+				0342BDF413BA77050093357B /* DetailViewController.xib */,
+				8F6F974A13DDF6AD00D013CF /* HTMLViewController.h */,
+				8F6F974813DDF6A600D013CF /* HTMLViewController.m */,
+				8F2EF61A13EA2D68002E3D52 /* MyMapAnnotations.h */,
+				8F2EF61B13EA2D6B002E3D52 /* MyMapAnnotations.m */,
+				1D3623240D0F684500981E51 /* ARSCAppDelegate.h */,
+				1D3623250D0F684500981E51 /* ARSCAppDelegate.m */,
+				8FD5BFAA139F8EB100839DAF /* HomeViewController.h */,
+				8FD5BFAB139F8EB100839DAF /* HomeViewController.m */,
+				8FD5C14513A14AF700839DAF /* AboutViewController.h */,
+				8FD5C14613A14AF700839DAF /* AboutViewController.m */,
+				8F2EF61713EA2D5E002E3D52 /* XMLParser.h */,
+				8F2EF61813EA2D64002E3D52 /* XMLParser.m */,
+				8FD5C1D013A19B0800839DAF /* ScienceViewController.h */,
+				8FD5C1D113A19B0800839DAF /* ScienceViewController.m */,
+				8FD5C1D513A19B2E00839DAF /* SupportViewController.h */,
+				8FD5C1D613A19B2E00839DAF /* SupportViewController.m */,
+				8F60CDB313C4F7E300100E18 /* ContactTableViewController.h */,
+				8F60CDBE13C4F7F500100E18 /* ContactTableViewController.m */,
+				8F60CE3713C5011300100E18 /* DetailContactViewController.h */,
+				8F60CDC113C4F80200100E18 /* DetailContactViewController.m */,
+				8F6F974313DDF0C600D013CF /* MapViewController.h */,
+				8F6F974413DDF0C600D013CF /* MapViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* ARSC.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* ARSC */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = ARSC;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				28A0AB4B0D9B1048005BE974 /* ARSC_Prefix.pch */,
+				8F60CDC413C4F81400100E18 /* Anton Kulchitsky.jpg */,
+				8F60CDC513C4F81400100E18 /* Beth Mercer.jpg */,
+				8F60CDC613C4F81400100E18 /* Brad Havel.jpg */,
+				8F60CDC713C4F81400100E18 /* Brandon Becker.jpg */,
+				8F7BE08313CBB134000212B6 /* Rijo Simon.jpg */,
+				8F60CDC813C4F81400100E18 /* Chris Fallen.jpg */,
+				8F7BE08D13CBB445000212B6 /* Craig Millard.jpg */,
+				8F60CDC913C4F81400100E18 /* Dale Clark.jpg */,
+				8F7BE08713CBB3E7000212B6 /* Bob Torgerson.jpg */,
+				8F7BE08913CBB3ED000212B6 /* Kayla Harrison.jpg */,
+				8F60CDCB13C4F81400100E18 /* Ed Kornkven.jpg */,
+				8F60CDCC13C4F81400100E18 /* Gene McGill.jpg */,
+				8F60CDCD13C4F81400100E18 /* Jonathan Horen.jpg */,
+				8F60CDCE13C4F81400100E18 /* Jamie Marschner.jpg */,
+				8F60CDCF13C4F81400100E18 /* Jeff Harrison.jpg */,
+				8F60CDD013C4F81400100E18 /* Kate Hedstrom.jpg */,
+				8F60CDD113C4F81500100E18 /* Jeremy Krieger.jpg */,
+				8F60CDD213C4F81500100E18 /* Kurt Carlson.jpg */,
+				8F60CDD313C4F81500100E18 /* Lawrence Murakami.jpg */,
+				8F60CDD413C4F81500100E18 /* Liam Forbes.jpg */,
+				8F60CDD513C4F81500100E18 /* Don Morton.jpg */,
+				8F60CDD613C4F81500100E18 /* Greg Newby.jpg */,
+				8F60CDD713C4F81500100E18 /* Rob Cermak.jpg */,
+				8F60CDD813C4F81500100E18 /* Sabrina Cook.jpg */,
+				8F60CDD913C4F81500100E18 /* Sergei Maurits.jpg */,
+				8F60CDDA13C4F81500100E18 /* Tom Logan.jpg */,
+				8F60CDDB13C4F81500100E18 /* Tom Bachert.jpg */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				03F6198413BD4F2D00753A61 /* Places.xml */,
+				030A702613B540FB00895825 /* annotations.txt */,
+				030A6E2E13B14DB300895825 /* 121-landscape.png */,
+				8F60CDF613C4F90200100E18 /* ContactTableViewController.xib */,
+				030A6E0613B1424300895825 /* MapViewController.xib */,
+				8F60CDF813C4FA4B00100E18 /* DetailContactViewController.xib */,
+				03EA59AA13B130D300D5C789 /* ARSC_Logo.png */,
+				03EA595513B12BA500D5C789 /* HomeViewController.xib */,
+				8FD5C14713A14AF700839DAF /* AboutViewController.xib */,
+				03F6199013BD517E00753A61 /* VideoViewController.xib */,
+				8F6F976113DDF6BB00D013CF /* HTMLViewController.xib */,
+				8FD5C1D213A19B0800839DAF /* ScienceViewController.xib */,
+				8FD5C1D713A19B2E00839DAF /* SupportViewController.xib */,
+				28AD73870D9D96C1002E5188 /* MainWindow.xib */,
+				8FD5C12813A147BC00839DAF /* 53-house.png */,
+				8FD5C12C13A1482F00839DAF /* 123-id-card.png */,
+				8D1107310486CEB800E47090 /* ARSC-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				03F6199313BD51C700753A61 /* MediaPlayer.framework */,
+				03EA597813B12D0000D5C789 /* CoreLocation.framework */,
+				03EA595F13B12CF300D5C789 /* MapKit.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765070DF74369002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* ARSC */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "ARSC" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ARSC;
+			productName = ARSC;
+			productReference = 1D6058910D05DD3D006BFB54 /* ARSC.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "ARSC" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* ARSC */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* ARSC */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */,
+				8FD5C12913A147BC00839DAF /* 53-house.png in Resources */,
+				8FD5C12D13A1482F00839DAF /* 123-id-card.png in Resources */,
+				8FD5C14913A14AF700839DAF /* AboutViewController.xib in Resources */,
+				8FD5C1D413A19B0800839DAF /* ScienceViewController.xib in Resources */,
+				8FD5C1D913A19B2E00839DAF /* SupportViewController.xib in Resources */,
+				03EA595613B12BA500D5C789 /* HomeViewController.xib in Resources */,
+				03EA59AB13B130D300D5C789 /* ARSC_Logo.png in Resources */,
+				030A6E0713B1424300895825 /* MapViewController.xib in Resources */,
+				030A6E2F13B14DB300895825 /* 121-landscape.png in Resources */,
+				030A702713B540FB00895825 /* annotations.txt in Resources */,
+				0342BDF613BA77050093357B /* DetailViewController.xib in Resources */,
+				03F6198513BD4F2D00753A61 /* Places.xml in Resources */,
+				03F6199213BD517E00753A61 /* VideoViewController.xib in Resources */,
+				8F60CDDC13C4F81500100E18 /* Anton Kulchitsky.jpg in Resources */,
+				8F60CDDD13C4F81500100E18 /* Beth Mercer.jpg in Resources */,
+				8F60CDDE13C4F81500100E18 /* Brad Havel.jpg in Resources */,
+				8F60CDDF13C4F81500100E18 /* Brandon Becker.jpg in Resources */,
+				8F60CDE013C4F81500100E18 /* Chris Fallen.jpg in Resources */,
+				8F60CDE113C4F81500100E18 /* Dale Clark.jpg in Resources */,
+				8F60CDE313C4F81500100E18 /* Ed Kornkven.jpg in Resources */,
+				8F60CDE413C4F81500100E18 /* Gene McGill.jpg in Resources */,
+				8F60CDE513C4F81500100E18 /* Jonathan Horen.jpg in Resources */,
+				8F60CDE613C4F81500100E18 /* Jamie Marschner.jpg in Resources */,
+				8F60CDE713C4F81500100E18 /* Jeff Harrison.jpg in Resources */,
+				8F60CDE813C4F81500100E18 /* Kate Hedstrom.jpg in Resources */,
+				8F60CDE913C4F81500100E18 /* Jeremy Krieger.jpg in Resources */,
+				8F60CDEA13C4F81500100E18 /* Kurt Carlson.jpg in Resources */,
+				8F60CDEB13C4F81500100E18 /* Lawrence Murakami.jpg in Resources */,
+				8F60CDEC13C4F81500100E18 /* Liam Forbes.jpg in Resources */,
+				8F60CDED13C4F81500100E18 /* Don Morton.jpg in Resources */,
+				8F60CDEE13C4F81500100E18 /* Greg Newby.jpg in Resources */,
+				8F60CDEF13C4F81500100E18 /* Rob Cermak.jpg in Resources */,
+				8F60CDF013C4F81500100E18 /* Sabrina Cook.jpg in Resources */,
+				8F60CDF113C4F81500100E18 /* Sergei Maurits.jpg in Resources */,
+				8F60CDF213C4F81500100E18 /* Tom Logan.jpg in Resources */,
+				8F60CDF313C4F81500100E18 /* Tom Bachert.jpg in Resources */,
+				8F60CDF713C4F90200100E18 /* ContactTableViewController.xib in Resources */,
+				8F60CDF913C4FA4B00100E18 /* DetailContactViewController.xib in Resources */,
+				8F7BE08413CBB134000212B6 /* Rijo Simon.jpg in Resources */,
+				8F7BE08813CBB3E7000212B6 /* Bob Torgerson.jpg in Resources */,
+				8F7BE08A13CBB3ED000212B6 /* Kayla Harrison.jpg in Resources */,
+				8F7BE08E13CBB445000212B6 /* Craig Millard.jpg in Resources */,
+				8F6F976213DDF6BB00D013CF /* HTMLViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* ARSCAppDelegate.m in Sources */,
+				8FD5BFAC139F8EB100839DAF /* HomeViewController.m in Sources */,
+				8FD5C14813A14AF700839DAF /* AboutViewController.m in Sources */,
+				8FD5C1D313A19B0800839DAF /* ScienceViewController.m in Sources */,
+				8FD5C1D813A19B2E00839DAF /* SupportViewController.m in Sources */,
+				03F6199113BD517E00753A61 /* VideoViewController.m in Sources */,
+				8F60CDBF13C4F7F500100E18 /* ContactTableViewController.m in Sources */,
+				8F60CDC213C4F80200100E18 /* DetailContactViewController.m in Sources */,
+				8F6F974513DDF0C600D013CF /* MapViewController.m in Sources */,
+				8F6F974913DDF6A600D013CF /* HTMLViewController.m in Sources */,
+				8F2EF61913EA2D64002E3D52 /* XMLParser.m in Sources */,
+				8F2EF61C13EA2D6B002E3D52 /* MyMapAnnotations.m in Sources */,
+				8F2EF62713EA2F43002E3D52 /* DetailViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = ARSC_Prefix.pch;
+				INFOPLIST_FILE = "ARSC-Info.plist";
+				PRODUCT_NAME = ARSC;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = ARSC_Prefix.pch;
+				INFOPLIST_FILE = "ARSC-Info.plist";
+				PRODUCT_NAME = ARSC;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				USER_HEADER_SEARCH_PATHS = /usr/include/libxml2/;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "ARSC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "ARSC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
